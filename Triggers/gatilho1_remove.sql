@@ -1,0 +1,1 @@
+DROP Trigger IF EXISTS out_date;
