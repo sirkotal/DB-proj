@@ -4,6 +4,8 @@ Group project for the DB (Databases) course unit.
 
 The objective of the project was to create a database for a sports competition - in this case, the [Copa Libertadores](https://en.wikipedia.org/wiki/Copa_Libertadores).
 
+**Grade: 18.1/20**
+
 ## Structure
 
 * **BD_relatorio_final.pdf**: Project's report
