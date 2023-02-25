@@ -1,6 +1,6 @@
-# DB Project
+# BD Project
 
-Group project for the DB (Databases) course unit.
+Group project for the BD (Databases) course unit.
 
 The objective of the project was to create a database for a sports competition - in this case, the [Copa Libertadores](https://en.wikipedia.org/wiki/Copa_Libertadores).
 
