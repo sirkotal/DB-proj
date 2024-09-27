@@ -7,4 +7,5 @@ fi
 
 sqlite3 ./test.db < ./criar.sql
 sqlite3 ./test.db < ./povoar.sql
+
 echo "Database Created"
